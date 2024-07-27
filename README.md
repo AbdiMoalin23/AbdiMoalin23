@@ -4,7 +4,7 @@
 - 💞 Passionate about full-stack development with a focus on AI applications.
 - 📫 How to reach me : amn370@uregina.ca
 - ## Certifications
-- - **IBM Full-Stack JavaScript Developer Certificate**
+- - **IBM Full-Stack JavaScript Developer Certificate(4/12)**
 - - Introduction to SoftWare Engineering : https://coursera.org/share/cbfe3ffc3e6b4cf7cf0a07a2743a14d0
 - - Introduction to HTML, CSS, and Javascript: https://coursera.org/share/84f79492d95ce45d4e7699492049a7ff
 - - Getting Started with Git and Github: https://coursera.org/share/d26d259b0c82c1fc65c5149281373dc2
