@@ -3,7 +3,7 @@
 - 🌱 I’m currently focused on becoming a backend developer with a bit of AI integration.
 - 💞 Passionate about building scalable APIs and intelligent applications.
 - 🛠 Skilled in FastAPI, Python, SQL, and cloud technologies.
-- 📫 Feel free to reach out : amn370@uregina.ca
+- 📫 Feel free to reach out : abdimoalin15@gmail.com
 
 <!---
 AbdiMoalin23/AbdiMoalin23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
